@@ -38,4 +38,4 @@ miPedidoDePizza
         console.log(mensajeDeError);
     });
 
-    
+    //miPedidoDePizza.then(manejarPedido).catch(manejarRechazo);
